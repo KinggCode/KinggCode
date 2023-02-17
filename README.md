@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Cloud Architect | DevOps Engineer | Web Developer</h3>
 <img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaackumi&label=Profile%20views&color=0e75b6&style=flat" alt="KinggCode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KinggCode&label=Profile%20views&color=0e75b6&style=flat" alt="KinggCode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KinggCode" alt="KinggCode" /></a> </p>
 
