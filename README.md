@@ -15,19 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Isaac Kumi</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h1 align="center">Hi 👋, I'm Kingcode</h1>
+<h3 align="center">Cloud Architect | DevOps Engineer | Web Developer</h3>
 <img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaackumi&label=Profile%20views&color=0e75b6&style=flat" alt="isaackumi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaackumi&label=Profile%20views&color=0e75b6&style=flat" alt="KinggCode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaackumi" alt="isaackumi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KinggCode" alt="KinggCode" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/isaac kumi" target="blank"><img src="https://img.shields.io/twitter/follow/isaac kumi?logo=twitter&style=for-the-badge" alt="isaac kumi" /></a> </p>
 
-- 💬 Ask me about **DevOps, AWS, Azure, Kubernetes**
-
-- 📫 How to reach me **isaac.k.kumi29@gmail.com**
+- 💬 Ask me about **Google Cloud Platform (GCP), Amazone Web Services(AWS), Microsoft Azure, CI/CD Pipelines, DevOps Practices**
+- 📫 How to reach me **eugenio.parker3@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
